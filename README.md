@@ -22,4 +22,8 @@ Back in the Terminal, type: python entity_extraction.py and watch the output.
 
 ### Evaluation for JOUR389W
 
-PUT YOUR EVALUATION HERE
+PUT YOUR EVALUATION HERE:
+
+I still often struggle with the interface here as it isn't the most accessible. Too often there is a slight mistake which makes the whole thing not work. Though once I got it to work, it went well, providing the people, places and organizations in the story. This could be beneficial if it has a ton of access to archives, and if someone is very comfortable with using GitHub, then they could do a good job at accessing it. Though, its interface can make it rather difficult.
+
+
